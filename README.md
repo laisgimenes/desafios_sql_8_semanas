@@ -1,2 +1,2 @@
-# desafios_sql_8_semanas
+Você pode encontrar os desafios completos aqui: https://8weeksqlchallenge.com/
  
